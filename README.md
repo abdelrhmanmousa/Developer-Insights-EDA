@@ -1,4 +1,5 @@
 #Developer Insights Analysis
+
 This project uses Stack Overflow survey data to analyze a wide range of insights related to developers worldwide. The analysis focuses on understanding developers' involvement in open-source projects, their earnings, job satisfaction, preferred work environments, and more. Through data cleaning, transformation, and visualization, we explore key questions that provide valuable insights into the global developer community.
 
 Key Questions Explored
