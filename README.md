@@ -1,19 +1,35 @@
-# Developer Survey Data Analysis
+# StackOverflow Developer Survey Analysis
 
-This project analyzes Stack Overflow Developer Survey data. The dataset contains responses from developers around the world regarding their career, programming languages, job satisfaction, work preferences, and more.
+This project analyzes the StackOverflow Developer Survey data to answer a variety of questions regarding developers' work, demographics, preferences, and tools used globally.
 
-## Features
+## Table of Contents
+- [Overview](#overview)
+- [Project Setup](#project-setup)
+- [Data Analysis Steps](#data-analysis-steps)
+  - [Data Cleaning](#data-cleaning)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Key Insights](#key-insights)
+- [Questions Answered](#questions-answered)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
-- **Data Analysis**: Perform analysis on developers' work patterns, job satisfaction, and salary based on various features.
-- **Visualizations**: Generate plots and visualizations to understand trends across different demographics, such as job satisfaction, salary, and most used programming languages.
-- **Preprocessing**: Clean and preprocess the dataset for further analysis.
+## Overview
 
-## Setup
+The goal of this project is to analyze StackOverflow's Developer Survey data to explore various aspects of the development profession, such as:
+- Developer job satisfaction
+- Preferred programming languages
+- Work environment preferences
+- Salary analysis
+- Developer demographics
 
-### 1. Clone the Repository
+The dataset provides a comprehensive view of the developer community worldwide, including details on their coding experience, career satisfaction, programming languages, and more.
 
-Clone the repository to your local machine:
+## Project Setup
 
-```bash
-git clone https://github.com/your-username/developer-survey-analysis.git
-cd developer-survey-analysis
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/stackoverflow-survey-analysis.git
+   cd stackoverflow-survey-analysis
+
